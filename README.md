@@ -3,7 +3,6 @@
 <h1 align="center">👋 Hi, I'm Thanh Lịch</h1>
 <h3 align="center">💻 A Passionate Fullstack Developer from Vietnam</h3>
 
-
 ### 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,fastapi,nodejs,tailwind,bootstrap,mysql,postgresql,mongodb,docker,git,github,vscode&theme=dark" />
@@ -16,7 +15,8 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ThanhhLichh&show_icons=true&theme=radical&hide_border=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ThanhhLichh&theme=radical&hide_border=true" />
 </p>
-🧠 Most Used Languages
+
+### 🧠 Most Used Languages
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhhLichh&layout=compact&theme=radical&hide_border=true" />
 </p>
@@ -29,10 +29,7 @@
   <a href="https://portfolio-nhom9-ltw.vercel.app/BuiThanhLich-052205001776/index.html" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23FF0000.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:buithanhlich931@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/thanhlich" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  
 </p>
-
-
 
 ---
 
