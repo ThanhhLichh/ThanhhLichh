@@ -6,12 +6,19 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQ0YmNmMWJiNTMzN2E1MmM0YmViZDI2M2E2M2E2M2E2/qgQUggAC3Pfv687qPC/giphy.gif" width="180" />
 </p>
 
-<h3 align="center">🚀 About Me</h3>
+<h3 align="center" style="color:#FF44CC; font-size:28px; font-weight:bold; text-shadow:0 0 10px #FF44CC, 0 0 20px #8A2BE2;">
+  🚀 About Me
+</h3>
+
+<p align="center" style="color:#e2d9ff; font-size:17px; line-height:1.6; text-shadow:0 0 5px #c084fc;">
+  🔭 I’m currently working on <b style="color:#FF55D4;">Fullstack Projects</b> <br/>
+  ⚡ Fun fact: <i style="color:#FF55D4;">"Code is like humor. When you have to explain it, it’s bad."</i> <br/>
+</p>
 
 <p align="center">
- 🔭 I’m currently working on <b>Fullstack Projects</b><br />
- ⚡ Fun fact: <b>"Code is like humor. When you have to explain it, it’s bad."</b>
+  <img src="https://i.imgur.com/waxVImv.png" width="100%" />
 </p>
+
 
 ---
 
@@ -59,19 +66,24 @@
 <h3 align="center">🏆 Achievements</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThanhhLichh&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ThanhhLichh&theme=radical" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThanhhLichh&theme=radical" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThanhhLichh&theme=radical" />
 </p>
+
 
 ---
 
-### 📊 Github Stats
+<h3 align="center"> 📊 Github Stats</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThanhhLichh&theme=radical&hide_border=true&background=0D1117" />
 </p>
 
 ---
 
-### 🌍 Connect with Me
+<h3 align="center"> 🌍 Connect with Me</h3>
 <p align="center">
   <a href="https://github.com/ThanhhLichh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
