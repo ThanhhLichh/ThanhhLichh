@@ -20,7 +20,6 @@
 </p>
 
 
----
 
 <h3 align="center">💻 Tech Stack & Weapons</h3>
 
@@ -60,8 +59,21 @@
     </tr>
   </table>
 </div>
+<hr>
+<h3 align="center">🏙️ My GitHub City</h3>
 
----
+<p align="center">
+  <a href="https://gitcity.natrajx.in/ThanhhLichh">
+    <img
+      src="https://gitcity.natrajx.in/api/svg?u=ThanhhLichh&theme=aurora"
+      width="750"
+      alt="Thanh Lich's GitHub City"
+    />
+  </a>
+</p>
+
+<hr>
+
 
 <h3 align="center">🏆 Achievements</h3>
 
@@ -70,19 +82,10 @@
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThanhhLichh&theme=radical" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ThanhhLichh&theme=radical" />
-</p>
-
-
----
-
-<h3 align="center"> 📊 Github Stats</h3>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThanhhLichh&theme=radical&hide_border=true&background=0D1117" />
 </p>
 
----
-
+<hr>
 <h3 align="center"> 🌍 Connect with Me</h3>
 <p align="center">
   <a href="https://github.com/ThanhhLichh">
